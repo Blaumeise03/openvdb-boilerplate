@@ -1,0 +1,15 @@
+
+# CMake build directories
+cmake-build-debug
+cmake-build-release
+build-l
+build
+
+# Jetbrains IDEs (CLion)
+.idea
+
+# OpenVDB files
+*.vdb
+
+# Stuff that looked lightweight, but seems to be unfinished: https://github.com/syoyo/tinyvdbio
+src_tinyvdbio
